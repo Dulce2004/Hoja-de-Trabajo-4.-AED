@@ -4,10 +4,10 @@ Programa para evaluar expresiones Infix.
 
 ## Información
 
-Universidad del Valle de Guatemala
-Facultad de Ingeniería
-Departamento de Ciencias de la Computación
-CC2016 - Algoritmos y Estructura de Datos
+Universidad del Valle de Guatemala  
+Facultad de Ingeniería  
+Departamento de Ciencias de la Computación  
+CC2016 - Algoritmos y Estructura de Datos  
 Guatemala, 21 de febrero de 2024
 
 ## Colaboradores
@@ -21,7 +21,7 @@ Guatemala, 21 de febrero de 2024
 
 ## Diagrama de Clases UML
 
-![HDT4-UML-de-Clases.png](https://postimg.cc/Q9WxRH7V)
+[HDT4-UML-de-Clases.png](https://postimg.cc/Q9WxRH7V)
 
 ## Respuestas del PDF
 
